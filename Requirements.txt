@@ -1,0 +1,4 @@
+Pillow
+pynput
+imageio opencv-python
+pygetwindow
